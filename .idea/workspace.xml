@@ -2,107 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8674384b-b0a1-49dd-8dce-73b169717aa7" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/people2.png" />
-      <change beforePath="$PROJECT_DIR$/_notes/dwsync.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/about/_notes/dwsync.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/about/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/css/_notes/dwsync.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/css/bootstrap.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/css/bootstrap.min.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/JourneyPro-AboutStudy.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/JourneyPro-AppIcon-01.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/JourneyPro-AppIcon-02.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/JourneyPro-AppIcon-03.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/JourneyPro-AppIcon-04.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/JourneyPro-AppIcon-05.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/JourneyPro-AppIcon-06.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/JourneyPro-Background-Green.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/JourneyPro-Background-Teal.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/JourneyPro-Footer.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/JourneyPro-Logo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/JourneyPro-SignUpFooter.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/JourneyPro-iPhone-Angle.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/JourneyPro-iPhone-App.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/JourneyPro-iPhone-Consent.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/JourneyPro-iPhone-Scientists.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/JourneyPro-iPhone-Tasks.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/JourneyPro-iPhone-Track.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/ScientistsMakeDiscoveries-24.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/_notes/dwsync.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/bg.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/daniel.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/darin.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/diversity.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/icon-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/icon-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/john.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/lara.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/larson.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/path-2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/path.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/stanley.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/telling-story.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/your-story-img.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/contact/_notes/dwsync.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/contact/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/contact/thankyou.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/css/_notes/dwsync.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/css/ajax-loader.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/css/all.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/images/JourneyPro-AboutStudy.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/images/JourneyPro-AppIcon-01.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/images/JourneyPro-AppIcon-02.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/images/JourneyPro-AppIcon-03.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/images/JourneyPro-AppIcon-04.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/images/JourneyPro-AppIcon-05.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/images/JourneyPro-AppIcon-06.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/images/JourneyPro-Background-Green.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/images/JourneyPro-Background-Teal.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/images/JourneyPro-Footer.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/images/JourneyPro-Logo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/images/JourneyPro-SignUpFooter.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/images/JourneyPro-iPhone-Angle.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/images/JourneyPro-iPhone-App.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/images/JourneyPro-iPhone-Consent.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/images/JourneyPro-iPhone-Scientists.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/images/JourneyPro-iPhone-Tasks.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/images/JourneyPro-iPhone-Track.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/images/ScientistsMakeDiscoveries-24.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/images/_notes/dwsync.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/images/bg.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/images/daniel.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/images/darin.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/images/diversity.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/images/icon-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/images/icon-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/images/john.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/images/lara.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/images/larson.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/images/path-2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/images/path.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/images/stanley.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/images/telling-story.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/images/your-story-img.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/js/_notes/dwsync.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/js/main.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/faq/_notes/dwsync.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/faq/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/grunge_patterns.jpg" afterPath="" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/privacy-policy/_notes/dwsync.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/privacy-policy/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/pw.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/research-study-summary-sheet/_notes/dwsync.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/research-study-summary-sheet/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/study-information-and-consent-to-research/AppendixFconsentformclean.doc.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/study-information-and-consent-to-research/_notes/dwsync.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/study-information-and-consent-to-research/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/support/_notes/dwsync.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/support/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/thankyou.html" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -119,8 +19,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="744">
-              <caret line="24" column="23" lean-forward="false" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+            <state relative-caret-position="372">
+              <caret line="33" column="29" lean-forward="true" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -238,12 +138,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525120144012</updated>
-      <workItem from="1525120146594" duration="2175000" />
+      <workItem from="1525120146594" duration="2523000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2175000" />
+    <option name="totallyTimeSpent" value="2523000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="526" y="330" width="3325" height="1771" extended-state="0" />
@@ -305,8 +205,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="744">
-          <caret line="24" column="23" lean-forward="false" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        <state relative-caret-position="372">
+          <caret line="33" column="29" lean-forward="true" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
           <folding />
         </state>
       </provider>
